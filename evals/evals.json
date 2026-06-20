@@ -1,0 +1,42 @@
+{
+  "skill": "portfolio-from-zero",
+  "description": "Trigger and behavior evals for the portfolio-from-zero skill.",
+  "cases": [
+    {
+      "id": "trigger-build-portfolio",
+      "input": "I want to build a personal website to help me switch careers into AI. Where do I start?",
+      "expect_skill": true,
+      "expect_behavior": "Starts at Stage 1 (Purpose), establishes the career-switch goal, then routes to Stage 4 (JD-Mirror) as the highest-leverage step before any design or code."
+    },
+    {
+      "id": "trigger-generic-portfolio",
+      "input": "My portfolio site looks generic and boilerplate. How do I fix it?",
+      "expect_skill": true,
+      "expect_behavior": "Diagnoses it as a storytelling problem, not a design problem. Routes to the JD-Mirror method to rebuild the section structure around a target role's capabilities."
+    },
+    {
+      "id": "trigger-domain",
+      "input": "How do I buy a domain for my personal site? Any traps?",
+      "expect_skill": true,
+      "expect_behavior": "Pulls from references/domain-buying.md: first-year vs renewal price trap, TLD renewal table, free WHOIS privacy, checkout upsell cancellation, recommends Cloudflare Registrar."
+    },
+    {
+      "id": "trigger-seo",
+      "input": "My site is live but nobody can find it on Google. What do I do?",
+      "expect_skill": true,
+      "expect_behavior": "Routes to Stage 8 / references/seo-and-discovery.md: JSON-LD Person schema, sitemap.xml (plural-namespace gotcha), robots.txt with AI-crawler policy, llms.txt, Google Search Console submission, bidirectional sameAs. Reframes 'SEO' as four name-query outcomes, not generic keyword ranking."
+    },
+    {
+      "id": "trigger-deploy",
+      "input": "I finished building my site locally. How do I get it online with my own domain?",
+      "expect_skill": true,
+      "expect_behavior": "Routes to references/deploy.md: Cloudflare Pages via wrangler, custom-domain binding, 25MB file limit + private-folder exclusion gotchas."
+    },
+    {
+      "id": "no-trigger-unrelated",
+      "input": "Help me debug a Python script that's throwing a KeyError.",
+      "expect_skill": false,
+      "expect_behavior": "Does not trigger; unrelated to building a personal portfolio website."
+    }
+  ]
+}
