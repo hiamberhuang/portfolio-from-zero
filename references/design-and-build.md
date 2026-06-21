@@ -62,6 +62,26 @@ A non-engineer can ship with any of these.
 
 ---
 
+## Bonus: a professional headshot from one photo｜彩蛋：一张照片生成职业肖像
+
+You need a clean portrait for the About / Hero section. Instead of a photoshoot, turn any decent photo into a studio-grade headshot with GPT Image (or Nano Banana). The prompt that works:
+
+> About / Hero 区需要一张干净的肖像。不用拍摄，用 GPT Image（或 Nano Banana）把任意一张像样的照片变成影棚级头像。好用的 prompt：
+
+```
+Transform the photo into a high-end studio portrait in the style of Apple
+executive headshots. The subject is shown in a half-body composition, wearing
+professional yet minimalist attire, with a natural and confident expression.
+Prefer outfits in neutral light colours: beige blazer and a white shirt. Add
+simple, minimal jewelry. Use soft, even studio lighting, a clean neutral
+background, and a shallow depth of field. Keep the face identity faithful to
+the original photo.
+```
+
+Tip: keep "face identity faithful to the original" in the prompt so it still looks like you. · prompt 里保留"忠于原图脸"，确保还是你本人。
+
+---
+
 ## Working tips｜实操贴士
 
 - Keep design tokens in `:root` CSS variables; tell AI to reference, not hardcode. · token 放 `:root` 变量，让 AI 引用别写死

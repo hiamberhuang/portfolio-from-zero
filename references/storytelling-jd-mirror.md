@@ -93,6 +93,33 @@ Never claim a capability you can't back. The site surfaces real overlap, it does
 
 ---
 
+## The starter prompt｜起手 prompt
+
+Hand the AI your résumé + your dream-role JD, and let it propose the section structure. Copy-paste:
+
+> 把你的简历 + 理想岗位 JD 丢给 AI，让它先提议 section 结构。直接复制：
+
+```
+这是我想参考的网站：https://amberhuang.world/
+附件是我的简历 & 我的理想岗位描述。
+请结合我的理想岗位描述帮我做一个作品集网站，告诉我：
+作品集应该包含哪些部分、体现哪些能力，
+以及有哪些部分加上会加分、但我目前没提供给你的——可以主动跟我要。
+
+(EN) Here's a site I want to reference: https://amberhuang.world/
+Attached: my résumé + my dream-role JD.
+Based on the JD, design my portfolio: which sections it should have,
+which capabilities each should prove, and what would strengthen it
+that I haven't given you yet — ask me for it.
+```
+
+## Prep checklist before you start｜动手前准备清单
+
+- [ ] Résumé 简历
+- [ ] The target JD 目标岗位 JD
+- [ ] Past project material (if any) 过往项目资料（若有）
+- [ ] Photos: LinkedIn headshot, life shots, workplace shots 领英照 / 生活照 / 职场照
+
 ## Output of this stage｜本阶段产出
 
 A section-by-section content outline, in your own words, each section tied to a JD capability. This is exactly what you feed the AI in the build stage — content first, then design.

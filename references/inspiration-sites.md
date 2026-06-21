@@ -6,17 +6,36 @@ You cannot brief an AI to build something beautiful if you can't point at what "
 
 ---
 
+## Benchmarks by goal — look at the right kind of site｜按目的看对的标杆
+
+Different goals have different "best in class." Look at the one that matches *your* purpose, not a random pretty site.
+
+> 不同目的有不同的"标杆"。看跟**你的目的**匹配的那个，别乱看好看的站。
+
+| Goal 目的 | Reference 参考 |
+|---|---|
+| Résumé / career site 简历站 | [amberhuang.world](https://amberhuang.world) |
+| Business / product site 商业站 | [clockless.ai](https://clockless.ai) |
+| Art / creative site 艺术站 | [lawted.tech](https://www.lawted.tech) |
+
+## Benchmarks by field｜按岗位看首选
+
+| Field 岗位 | Reference 参考 |
+|---|---|
+| Marketing 市场营销 | [amberhuang.world](https://amberhuang.world) |
+| UI/UX 设计 | [zililiu.com](https://www.zililiu.com) |
+| Data science 数据科学 | [panglang-portfolio.vercel.app](https://panglang-portfolio.vercel.app) |
+
 ## Galleries to mine (ranked by ROI)｜灵感库（按 ROI 排）
 
 - **[awwwards.com](https://awwwards.com)** — the design-awards site; the high bar · 设计大奖站，高标杆
 - **[cofolios.com](https://cofolios.com)** — portfolios of designers at top tech companies · 顶尖科技公司设计师作品集
 - **[godly.website](https://godly.website)** — modern, experimental, trend-forward · 现代、实验性、趋势前沿
 - **[siteinspire.com](https://siteinspire.com)** — clean / minimalist end · 极简风一端
+- **[bruno-simon.com](https://bruno-simon.com)** — famous 3D playable portfolio (aspirational) · 著名 3D 可玩作品集（仰望用）
 
-Bonus, for personal sites specifically｜个人站专项加餐：
-- **[bruno-simon.com](https://bruno-simon.com)** — the famous 3D playable portfolio (aspirational) · 著名 3D 可玩作品集（仰望用，别当模板）
-- **Daniel Spatzek** — strong editorial / animation craft · 编辑感 + 动效功力
-- Look for portfolios with **strong narrative**, not just strong animation — those age better · 找**叙事强**的，不只是动效炫的——前者更耐看
+Look for portfolios with **strong narrative**, not just strong animation — those age better.
+> 找**叙事强**的，不只是动效炫的——前者更耐看。
 
 ---
 
